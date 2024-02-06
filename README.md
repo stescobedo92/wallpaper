@@ -12,11 +12,11 @@ This C++ project provides a straightforward utility for changing the desktop wal
 For execution in Linux environments, navigate to the executable folder then open the folder in your terminal (bash, zsh, etc) and execute the following statement:
 
 ```bash
-./wallppaper /path/to/your/image.jpg
+./wallppaper-linux-0.0.1 /path/to/your/image.jpg
 ```
 
 For execution in Windows environments, move to the executable folder then open the folder in your terminal (powershell or cmd) and execute the following statement
 
 ```powershell
-.\wallppaper.exe /path/to/your/image.jpg
+.\wallppaper-windows-0.0.1.exe /path/to/your/image.jpg
 ```
